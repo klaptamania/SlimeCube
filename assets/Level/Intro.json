@@ -1,0 +1,6 @@
+{
+  "mapPath": "Map/Room1.tmx",
+  "totalWave": 3,
+  "roomType" : "INTRO",
+  "introDialog": "Dialogue/God.txt"
+}

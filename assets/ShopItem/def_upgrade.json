@@ -1,0 +1,7 @@
+{
+  "name": "Def",
+  "price": 9,
+  "amount": 5,
+  "textureName": "UPGRADE:DEF",
+  "description": "Gain 5 additional Armor. Each Armor point reduces damage taken by 1."
+}

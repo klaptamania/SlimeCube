@@ -1,0 +1,5 @@
+{
+  "mapPath": "Map/PathOfGlory.tmx",
+  "totalWave": 3,
+  "roomType" : "ENDLESS"
+}

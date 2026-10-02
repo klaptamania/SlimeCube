@@ -1,0 +1,7 @@
+{
+  "name": "Dodge",
+  "price": 7,
+  "amount": 5,
+  "textureName": "UPGRADE:DODGE",
+  "description": "Gain 5 Dodge Rate. (Max 95)"
+}

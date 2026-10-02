@@ -1,0 +1,24 @@
+Uh oh, looks like you don't have enough Monster Cores for that, little slime.
+BreakRightHere
+Greetings, this is our first time meeting...
+Wait... are you a slime?
+...
+You're not attacking me. so I'll assume you're friendly.
+'This is so stupid. Why am I try to talk to a slime cube?'
+...
+Can you even understand what I'm saying?
+...
+Okay, I'm a merchant. I sell all kinds of goods.
+You can use Monster Cores to buy something from me.
+BreakRightHere
+You can't afford anything?
+Hmm... wait a minute.
+Here, take this item.
+It's not every day I get to watch a monster shop for supplies.
+We'll meet again someday. Just remember to pay me back later.
+Bye.
+BreakRightHere
+Alright, thanks for buying from me.
+We'll meet again someday.
+Good luck, little slime.
+BreakRightHere

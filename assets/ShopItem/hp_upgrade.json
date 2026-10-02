@@ -1,0 +1,7 @@
+{
+  "name": "HP",
+  "price": 12,
+  "amount": 20,
+  "textureName": "UPGRADE:HP",
+  "description": "Gain 20 Max HP."
+}

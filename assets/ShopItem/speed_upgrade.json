@@ -1,0 +1,7 @@
+{
+  "name": "Speed",
+  "price": 12,
+  "amount": 5,
+  "textureName": "UPGRADE:SPEED",
+  "description": "Gain 5 Speed."
+}

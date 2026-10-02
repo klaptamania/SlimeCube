@@ -1,0 +1,11 @@
+{
+positionX: 768
+positionY: 448
+wea1: PeaGun
+wea2: ""
+HP: 100
+currentAmmo: 50
+gunAmmo: 12
+dungeon: Level/Dungeon1.txt
+isDialog: false
+}
